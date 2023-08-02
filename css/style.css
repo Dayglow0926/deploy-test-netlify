@@ -85,6 +85,7 @@ main article p {
   font-weight: 700;
   background-color: rgba(0, 0, 0, 0.5);
   box-shadow: 0px 0px 30px 30px rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
 }
 
 /* footer */
