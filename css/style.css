@@ -29,7 +29,7 @@ header {
   position: relative;
 
   /* z-index를 적용할 때는 position이 static이면 안됨 */
-  z-index: 9;
+  z-index: 8;
 }
 header h1 {
 }
